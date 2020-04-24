@@ -8,6 +8,8 @@ Created by:
 * Fatos Ismali, Data Solutions Architect, Databricks 
 * Joe Plumb, Data Solutions Architect, Microsoft
 * Muffajul Ali, Data Solutions Architect, Microsoft
+* Lorea Arrizabalaga, Data Solutions Architect, Microsoft
+* Adelina Balasa, Data Solutions Architect, Microsoft
 
 # Table of Contents
 
