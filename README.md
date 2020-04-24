@@ -10,6 +10,7 @@ Created by:
 * Muffajul Ali, Data Solutions Architect, Microsoft
 * Lorea Arrizabalaga, Data Solutions Architect, Microsoft
 * Adelina Balasa, Data Solutions Architect, Microsoft
+* Wasim Ahmad, Data Solutions Architect, Microsoft
 
 # Table of Contents
 
